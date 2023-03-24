@@ -10,6 +10,8 @@
     <img height="150em"  width= "400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aJheni&layout=compact&langs_count=16&theme=cobalt" align="center"/>
   </div>
 
+<hr>
+
 ### Technologies, languages & tools:
 
 <div style="display: inline_block" align:"center"><br>
